@@ -1,0 +1,1 @@
+Item: table, ID: 1, Remaining: 9
